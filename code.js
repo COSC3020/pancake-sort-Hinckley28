@@ -11,7 +11,7 @@ function flip(array, n) {
 
 // Use only flip() here to manipulate the array
 function pancakeSort(array) {
-  for (let i = array.length; i >= 0; i--) {
+  for (let i = array.length; i >= 2; i--) {
       max = findMax(array.slice(0, i));
       //console.log(max);
       flip(array, max);
