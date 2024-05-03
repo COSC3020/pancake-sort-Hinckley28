@@ -30,5 +30,5 @@ What is the asymptotic runtime ($\Theta$) of your algorithm in terms of the
 number of comparisons? What is it in terms of the number of flips? Add your
 answer to this markdown file.
 
-Answer: In terms of number of comparisons, the time complexity would be $\Theta(n^2)$. In terms of the number of flips, the time complexity would be $\Theta(2n^2)$, which would just be $\Theta(n^2)$. 
+Answer: In terms of number of comparisons, the time complexity would be $\Theta(n^2)$. In terms of the number of flips, the time complexity would be $\Theta(n^2)$.
 
