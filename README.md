@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-m0g1A8z)
 # Pancake Sort
 
 There is an abstract data type (ADT) called a *pancake array*, which provides
@@ -28,4 +29,9 @@ element into its correct position.
 What is the asymptotic runtime ($\Theta$) of your algorithm in terms of the
 number of comparisons? What is it in terms of the number of flips? Add your
 answer to this markdown file.
+
+Answer: In terms of number of comparisons, the time complexity would be $\Theta(n^2)$. In terms of the number of flips, there would be $2n$ flips.
+
+Sources: 
+https://www.geeksforgeeks.org/pancake-sorting/ (used the pseudocode for this pancake sort method)
 
