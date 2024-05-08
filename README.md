@@ -32,3 +32,6 @@ answer to this markdown file.
 
 Answer: In terms of number of comparisons, the time complexity would be $\Theta(n^2)$. In terms of the number of flips, there would be $2n$ flips.
 
+Sources: 
+https://www.geeksforgeeks.org/pancake-sorting/ (used the pseudocode for this pancake sort method)
+
